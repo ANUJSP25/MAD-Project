@@ -1,1 +1,6 @@
-# MAD-Project
+# Mobile Application Development Project
+
+It can be tough to stay connected to family and loved ones who live far away (and with social distancing it’s even harder). Video calling apps are a great way to spend time face-to-face when you can’t be together in person. Whether calling your boss or trying to stay in touch with your friends and family, you should have VChat video calling app on your phone or computer.
+The concept behind video calls is simple: It’s as simple as making a phone call, but provides both video and audio. The right video conferencing tool allows you to set up a virtual “room” and provides a number or clickable link users can use to “enter” the room. Once they are inthe meeting, you can see them with your screen and webcam, and they can see you.
+A conference video call is helpful for a meeting because it makes it easier to keep track of who is speaking. It also lets you pick up on the nuances of facial expressions that you’d miss on an audio-only call. An online meeting using video conferencing tools creates an intimate setting that can help facilitate communication.
+Simple and secure high quality video calls for smartphones and tablets. Video call is free high quality video calling app focused on security and low internet data usage. It’s simple and works on smartphones and tablets.
